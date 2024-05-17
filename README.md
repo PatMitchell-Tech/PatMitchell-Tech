@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### My name is Patrick Mitchell. I'm currently a Frontend developer intern at GaoTek inc.
+### I'm skilled in python, powershell, and bash. I'm currently learning C and rust as I find these languages to be interesting
+
 
 <!--
 **PatMitchell-Tech/PatMitchell-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
