@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Patrick Mitchell. I'm currently a Frontend developer intern at GaoTek inc.
 
 <!--
 **PatMitchell-Tech/PatMitchell-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
