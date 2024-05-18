@@ -18,4 +18,4 @@ I'm currently a front end developer intern at Gaotek inc. Most of the time I spe
 #
 
 ### Some of my projects:
-**`My IT portfolio(src="https://patmitchell-tech.github.io/")`**
+<insert projects here>
