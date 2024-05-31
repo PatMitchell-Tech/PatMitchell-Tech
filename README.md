@@ -16,6 +16,5 @@ I'm currently a front end developer intern at Gaotek inc. Most of the time I spe
 <br />
 
 #
-
-### Some of my projects:
+**`(Look below to see some projects I have completed in and out of school)`**
 
