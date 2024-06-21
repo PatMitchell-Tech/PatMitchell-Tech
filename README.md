@@ -1,8 +1,8 @@
 **`Welcome to my github(My name is Patrick Mitchell)`**
 <br>
-**`Aspiring IT professional(Front end developer intern)`**
+**`Aspiring IT professional`**
 <br>
-I'm currently a front end developer intern at Gaotek inc. Most of the time I spend as an intern i'm developing subpages for the gaotek rfid website using html, javascript, and CSS and then publishing these webpages using wordpress. In my free time I like to workout, travel, and spend time with my girlfriend and our cats.
+LSC student worker & GenCyber camp counselor. 
 <br>
 ### Some of my skills:
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
