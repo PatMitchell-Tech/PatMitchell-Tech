@@ -2,7 +2,7 @@
 <br>
 **`Aspiring IT professional`**
 <br>
-LSC student worker & GenCyber camp counselor. 
+
 <br>
 ### Some of my skills:
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
