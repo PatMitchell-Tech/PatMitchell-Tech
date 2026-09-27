@@ -1,6 +1,6 @@
 # Hi, I'm Patrick 
 
-**IT Systems & Network Administrator** specializing in enterprise Windows Server infrastructure, Hyper-V virtualization, Cisco networking, and PowerShell automation. 
+**IT Systems & Network Administrator** specializing in enterprise Windows Server infrastructure, Hyper-V virtualization, Enterprise networking, and PowerShell automation. 
 
 I design, deploy, and maintain high-availability systems—focusing on core network redundancy, automated virtual machine provisioning, disaster recovery, and infrastructure-as-code scripting.
 
@@ -10,10 +10,10 @@ I design, deploy, and maintain high-availability systems—focusing on core netw
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Virtualization & Compute** | Hyper-V (Failover Clustering, CSVs, SET), VMware ESXi, Windows Server (2016–2025), Linux (RHEL/Debian) |
+| **Virtualization & Compute** | Hyper-V (Failover Clustering, CSVs, SET), VMware ESXi, Windows Server (2016–2025), Linux (RHEL/Ubuntu) |
 | **Networking & Routing** | Cisco IOS, L2/L3 Core Switching, HSRP, 802.1Q VLAN Trunking, LACP/EtherChannel, IP Helper Relays |
 | **Directory & Core Services**| Active Directory (AD DS), DNS, DHCP, Group Policy (GPO), PKI / Certificate Services, Network Policy Server (NPS) |
-| **Backup & Business Continuity** | Veeam Backup & Replication, MPIO Direct-Attach SAN / Block Storage, Immutable Offsite Backups |
+| **Backup & Business Continuity** | Veeam Backup & Replication, MPIO Direct-Attach SAN / Block Storage, Automated backups |
 | **Automation & Scripting** | PowerShell, Python, Bash, C, Assembly, Rust |
 
 ---
@@ -43,9 +43,7 @@ A collection of custom production-ready scripts written for network engineering,
 ---
 
 <details>
-<summary>⚡ Just for Fun</summary>
 
-* **[Beemovie-script-in-C](https://github.com/PatMitchell-Tech/Beemovie-script-in-C):** The entire Bee Movie script hardcoded directly into executable C. Absolutely zero practical production value, but 100% functional.
 </details>
 
 ---
