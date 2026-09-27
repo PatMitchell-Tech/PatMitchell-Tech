@@ -42,9 +42,7 @@ A collection of custom production-ready scripts written for network engineering,
 
 ---
 
-<details>
 
-</details>
 
 ---
 
